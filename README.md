@@ -1,6 +1,8 @@
 # DMI-Insider-Website
+**Warning:**
+Spostato su https://github.com/dmiinsider/dmiinsider.github.io
 
-Sito ufficiale dei [DMI Insider](https://herbrant.github.io/DMI-Insider-Website)
+Sito ufficiale dei [DMI Insider](https://dmiinsider.github.io/)
 
 ## Sviluppo
 
